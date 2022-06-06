@@ -927,10 +927,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/qs@^6.9.0":
-  version "6.9.6"
-  resolved "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.9.6.tgz#df9c3c8b31a247ec315e6996566be3171df4b3b1"
-  integrity sha1-35w8izGiR+wxXmmWVmvjFx30s7E=
+"@types/qs@^6.9.7":
+  version "6.9.7"
+  resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz#63bb7d067db107cc1e457c303bc25d511febf6cb"
+  integrity sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==
 
 "@types/react-dom@^16.9.9":
   version "16.9.12"
@@ -7405,11 +7405,6 @@ p-try@^2.0.0:
   resolved "https://registry.nlark.com/p-try/download/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha1-yyhoVA4xPWHeWPr741zpAE1VQOY=
 
-pako@^2.0.2:
-  version "2.0.3"
-  resolved "https://registry.npm.taobao.org/pako/download/pako-2.0.3.tgz?cache=0&sync_timestamp=1610208910632&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpako%2Fdownload%2Fpako-2.0.3.tgz#cdf475e31b678565251406de9e759196a0ea7a43"
-  integrity sha1-zfR14xtnhWUlFAbennWRlqDqekM=
-
 pako@~1.0.5:
   version "1.0.11"
   resolved "https://registry.npm.taobao.org/pako/download/pako-1.0.11.tgz?cache=0&sync_timestamp=1610208910632&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpako%2Fdownload%2Fpako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
@@ -7916,10 +7911,10 @@ qrcode@^1.4.1:
     pngjs "^3.3.0"
     yargs "^13.2.4"
 
-qs@^6.7.0, qs@^6.9.1:
-  version "6.10.1"
-  resolved "https://registry.npm.taobao.org/qs/download/qs-6.10.1.tgz?cache=0&sync_timestamp=1616385328325&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fqs%2Fdownload%2Fqs-6.10.1.tgz#4931482fa8d647a5aab799c5271d2133b981fb6a"
-  integrity sha1-STFIL6jWR6Wqt5nFJx0hM7mB+2o=
+qs@^6.10.5, qs@^6.9.1:
+  version "6.10.5"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.10.5.tgz#974715920a80ff6a262264acd2c7e6c2a53282b4"
+  integrity sha512-O5RlPh0VFtR78y79rgcgKK4wbAI0C5zGVLztOIdpWX6ep368q5Hv6XRxDvXuZ9q3C6v+e3n8UfZZJw7IIG27eQ==
   dependencies:
     side-channel "^1.0.4"
 
